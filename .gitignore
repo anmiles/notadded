@@ -1,0 +1,12 @@
+aspnet_client
+TestResults
+bin
+obj
+packages
+.vs
+.idea
+*.user
+*.suo
+*.pdb
+*.svclog
+*.vspscc
